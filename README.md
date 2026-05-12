@@ -49,17 +49,6 @@ Gosto de entender os problemas fundo a fundo antes de codar — e de construir s
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KiyotaYuji&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/KiyotaYuji)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyotaYuji&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/KiyotaYuji)
-
-</div>
-
----
-
 <div align="center">
   <sub>Curitiba, PR · Disponível para oportunidades como Dev Júnior</sub>
 </div>
