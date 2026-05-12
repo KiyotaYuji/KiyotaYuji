@@ -20,10 +20,9 @@ Sou um estudante de Ciência da Computação apaixonado por resolver problemas c
 </p>
 
 ### 📊 As minhas Estatísticas
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KiyotaYuji&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiyotaYuji&layout=compact&theme=radical"/>
-</p>
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KiyotaYuji&show_icons=true&theme=radical)](https://github.com/KiyotaYuji)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyotaYuji&layout=compact&theme=radical)](https://github.com/KiyotaYuji)
 
 ### 📫 Como contactar-me
 <p align="left">
